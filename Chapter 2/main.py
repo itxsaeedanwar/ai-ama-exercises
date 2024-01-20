@@ -1,7 +1,7 @@
 from environment import VacuumEnvironment
 from agents import RandomAgent, ReflexAgent, InternalAgent
 
-ENV_SIZE = (12, 12)
+ENV_SIZE = (8, 12)
 DIRT_CHANCE = 0.05
 
 
